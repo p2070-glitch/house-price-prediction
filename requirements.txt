@@ -1,4 +1,4 @@
 steamlit
 joblib
 numpy
-sikit=learn
+sikit-learn
